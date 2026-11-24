@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
-const root=process.cwd(),mode=process.argv[2]??'list',group=process.argv[3]??'source';
+const mode=process.argv[2]??'list',group=process.argv[3]??'source';
 async function walk(dir){let files=[];for(const e of await fs.readdir(dir,{withFileTypes:true})){const name=path.join(dir,e.name);if(e.isDirectory())files.push(...await walk(name));else files.push(name.replaceAll('\\','/'));}return files;}
 const source=[...await walk('src'),...await walk('e2e'),...await walk('scripts'),...await walk('.github'),...await walk('docs'),...await walk('public'),'README.md','package.json','package-lock.json','tsconfig.json','vite.config.ts','playwright.config.ts','eslint.config.js','index.html','.gitignore','start-local.ps1'].sort();
 const docs=(await walk('deliverables')).filter(f=>!f.endsWith('.rar')&&!f.endsWith('.zip')&&!f.includes('/pdf-preview/')&&!f.endsWith('report-cover-preview.png')&&!f.endsWith('.html')).sort();
