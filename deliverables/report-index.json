@@ -1,0 +1,25 @@
+{
+  "identity": {
+    "name": "Ali Rifqi Rafsanjani",
+    "nim": "2422052",
+    "class": "",
+    "program": "Technopreneur",
+    "faculty": "",
+    "university": "Institut Teknologi Batam",
+    "course": "Interaksi Manusia dan Komputer",
+    "lecturer": "Zainul Munir, S.T., Me.TC",
+    "year": "2026",
+    "date": "25 November 2026",
+    "github": "https://github.com/qibytecom/whatif",
+    "githubStatus": "Sumber kode telah diunggah dan cabang main diperbarui pada repositori publik qibytecom/whatif. Commit sumber awal: a57e6672333c70172f506962f572f704853358cc. Dokumen dan bukti distribusi disertakan pada repositori yang sama."
+  },
+  "reportSheets": 63,
+  "mainPages": 63,
+  "codePages": 182,
+  "totalPages": 245,
+  "files": 54,
+  "unitPassed": 45,
+  "browserPassed": 14,
+  "oversizedSections": [],
+  "github": "https://github.com/qibytecom/whatif"
+}

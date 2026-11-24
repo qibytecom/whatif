@@ -1,0 +1,465 @@
+{
+  "repository": "https://github.com/qibytecom/whatif",
+  "visibility": "public",
+  "sourceCommit": "f812b4898b16b9d2f028799da6b2c8b8364fd3d6",
+  "filesVerified": 114,
+  "method": "Git blob SHA-1 compared with local original bytes",
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "sha": "3af9eb388e006d57c9b3b68ef45ae16e0a64c0db"
+    },
+    {
+      "path": ".gitignore",
+      "sha": "236793ff4fd1d96d4bf3c88f338a42c15feb1447"
+    },
+    {
+      "path": "README.md",
+      "sha": "81683aaa7642d6b59c64861aa07f4b077325406b"
+    },
+    {
+      "path": "docs/academic-metadata.json",
+      "sha": "27f75d6592725ccec3534d23265b5d79b977f258"
+    },
+    {
+      "path": "e2e/app.spec.ts",
+      "sha": "80831ed89f270c0940f36464094a4626c94ab5e4"
+    },
+    {
+      "path": "e2e/decisions.spec.ts",
+      "sha": "56b47c70bac3c19837f26bcb0bfe235e7200ba1b"
+    },
+    {
+      "path": "eslint.config.js",
+      "sha": "2f4748f5db9f822e2852a102dda90b4946678445"
+    },
+    {
+      "path": "index.html",
+      "sha": "97482c7b5fd3067a54e342be5d096cba9ea452bd"
+    },
+    {
+      "path": "package-lock.json",
+      "sha": "8f987cfa35944169167056428fc967d5acaefe02"
+    },
+    {
+      "path": "package.json",
+      "sha": "9ffcc9ca16f92bc0d574195cac424a2b187e3b34"
+    },
+    {
+      "path": "playwright.config.ts",
+      "sha": "66df7d988480d2055ea6d022c0ed3e11e6a8824f"
+    },
+    {
+      "path": "public/_redirects",
+      "sha": "7797f7c6a7356b0d451d11a49925df854c22e978"
+    },
+    {
+      "path": "scripts/build-academic-report.mjs",
+      "sha": "d398330ad5f86b88f3fc6c21569280f641687bdc"
+    },
+    {
+      "path": "scripts/capture-academic.mjs",
+      "sha": "562626f2697344b32334d0d5c99d444ef242db25"
+    },
+    {
+      "path": "scripts/check-mobile-import.mjs",
+      "sha": "e35091debaf5d2b0d555b8e7380c3067f0446f2e"
+    },
+    {
+      "path": "scripts/github-package.mjs",
+      "sha": "62fb9629dd511200736cc99b770ddb0712c1b377"
+    },
+    {
+      "path": "scripts/inspect-academic-pdf.mjs",
+      "sha": "698d943e970e3b6a58150ee66382695650f92602"
+    },
+    {
+      "path": "scripts/inspect-layout.mjs",
+      "sha": "f91926496ecb614af824445911c7099c14009f15"
+    },
+    {
+      "path": "src/app/App.tsx",
+      "sha": "7e297c75e8aa4b54301ceea82c0b90fd742504e7"
+    },
+    {
+      "path": "src/components/common.tsx",
+      "sha": "e43c77d6d36b4f0e7dc4735bc6e7f814f2099abd"
+    },
+    {
+      "path": "src/components/layout/Shell.tsx",
+      "sha": "781b7ee2093853a99b808ab80f6464423d36b06e"
+    },
+    {
+      "path": "src/components/planning/DecisionPanels.tsx",
+      "sha": "8bb043ad177ef65232f901432b9bcef4ea5a3bf7"
+    },
+    {
+      "path": "src/components/planning/OperationFields.tsx",
+      "sha": "8628cbb12b389e8cba23d753a223f3e73b3a910b"
+    },
+    {
+      "path": "src/components/planning/PlanningReport.tsx",
+      "sha": "ac4e6ca734a48c98205689c8ab6083766edfb616"
+    },
+    {
+      "path": "src/components/simulator/Analysis.tsx",
+      "sha": "ac3df46857deaeeefccbb650989f4ca7fdfd99d8"
+    },
+    {
+      "path": "src/components/simulator/ScenarioFields.tsx",
+      "sha": "45254cc44dc1eae270ab9b1d5218180e167f1504"
+    },
+    {
+      "path": "src/components/ui/button.tsx",
+      "sha": "d4e2a656bfd6d7f0f0af17c0b2702634603fb438"
+    },
+    {
+      "path": "src/data/demo.ts",
+      "sha": "0c06a9a84f461b38a4442c721cb938542f220812"
+    },
+    {
+      "path": "src/features/business/BusinessForm.tsx",
+      "sha": "0e37f5ecf3bf516371234385b8c0dd3522c8895e"
+    },
+    {
+      "path": "src/features/reports/export.ts",
+      "sha": "15c7cf809bb99d5643beaa8d70bbf419f0f6fd50"
+    },
+    {
+      "path": "src/hooks/useDialogFocus.ts",
+      "sha": "029a850b2c92a58c7bbb8937b6ff15141b794863"
+    },
+    {
+      "path": "src/lib/forecast/index.ts",
+      "sha": "84144a580a61a388787fe1c3431aa2e73e170a95"
+    },
+    {
+      "path": "src/lib/formatters/index.ts",
+      "sha": "50973e00dc998aa51031ff52a7fe3f24017bffa4"
+    },
+    {
+      "path": "src/lib/planning/cash.ts",
+      "sha": "115fd072cbd7c00dad8d40ea8b7e4ac26a9bff6d"
+    },
+    {
+      "path": "src/lib/planning/decision.ts",
+      "sha": "41445a89e6dfd426b64cffa24f879d9963edb559"
+    },
+    {
+      "path": "src/lib/planning/inventory.ts",
+      "sha": "c77d0828cea7bc63b1a91e613213dc99be7949a2"
+    },
+    {
+      "path": "src/lib/simulation/index.ts",
+      "sha": "4aee227e346bd3d1bddc99bb8581eb947c1f1056"
+    },
+    {
+      "path": "src/lib/storage/index.ts",
+      "sha": "4dd07d1ecb0556c687da34e3bbb795e5a9c0b9ed"
+    },
+    {
+      "path": "src/lib/validation/index.ts",
+      "sha": "f0fb8282b96098ad093d871e53d88d8de1917649"
+    },
+    {
+      "path": "src/lib/validation/planning.ts",
+      "sha": "ee202a71d1f2f903d9001aae099fca0c93a78a1a"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha": "53ebc3a40d1d7118e695e88fea07a656a297a257"
+    },
+    {
+      "path": "src/pages/Dashboard.tsx",
+      "sha": "d4f872bf4cc0ed2c2d6557f8384724b2a97a0d06"
+    },
+    {
+      "path": "src/pages/Decisions.tsx",
+      "sha": "cbdb7bff63eb4ce8ff75af1efd09ad4b3851b4ff"
+    },
+    {
+      "path": "src/pages/History.tsx",
+      "sha": "0374a87a08f291fffb889450f1cd9cf7bf33ab7d"
+    },
+    {
+      "path": "src/pages/Insights.tsx",
+      "sha": "4a4d650a77d24c65de26b9568b7dd5b000690b04"
+    },
+    {
+      "path": "src/pages/Reports.tsx",
+      "sha": "5b4bdc8103c720bbecca7095d53f48a17e3d6247"
+    },
+    {
+      "path": "src/pages/Scenarios.tsx",
+      "sha": "1bba123055146575876b21f8c12e7ced0b06279a"
+    },
+    {
+      "path": "src/pages/Settings.tsx",
+      "sha": "4201136b19e2914cb368c14872678f8de27d2d52"
+    },
+    {
+      "path": "src/pages/Simulator.tsx",
+      "sha": "5ec2e19607b9d1287e598f8c1d49c684bdadd369"
+    },
+    {
+      "path": "src/styles/index.css",
+      "sha": "b33b1eb5b89b4969a35c0a027697404e995b2f85"
+    },
+    {
+      "path": "src/styles/planning.css",
+      "sha": "95df7812180ea13e2593032f4bc0d0c4b48a723f"
+    },
+    {
+      "path": "src/styles/simple.css",
+      "sha": "34e43548c1acbf164dd3f6ede4f2e137671f61ec"
+    },
+    {
+      "path": "src/tests/form.test.tsx",
+      "sha": "6fe3f0b1288538ad82805d70f721ee6547b0d0f8"
+    },
+    {
+      "path": "src/tests/planning.test.ts",
+      "sha": "dc5019a6d43f4eae18ad71c41d80a53bfb26a3f4"
+    },
+    {
+      "path": "src/tests/setup.ts",
+      "sha": "f149f27ae4bbd7cc4f6253570176a4fce144ef95"
+    },
+    {
+      "path": "src/tests/simulation.test.ts",
+      "sha": "25f8eb74cd5def228266b2fba1c2ad500b28fcd9"
+    },
+    {
+      "path": "src/types/index.ts",
+      "sha": "a40a96d34bba7caab763df2f5659565083fa4540"
+    },
+    {
+      "path": "start-local.ps1",
+      "sha": "f24ec73124c04277e6cdf1b92a16cf66fe152c1a"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha": "3eb86d8c14518a15034374a1ff06ce2e191d9aae"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha": "575e83addcefc62b78e4dd7a19c4ebbd8374da92"
+    },
+    {
+      "path": "scripts/record-build-evidence.mjs",
+      "sha": "dc1eff653e39c15cbf3cce4a01fcc8331ec903cf"
+    },
+    {
+      "path": "scripts/stage-student-package.mjs",
+      "sha": "a2a68e08508466895d78385733145ad2d871ba09"
+    },
+    {
+      "path": "deliverables/Contoh_Laporan_Keputusan_WhatIf.pdf",
+      "sha": "58c963b7ee918ae1bed344ce156b6acc79645fc6"
+    },
+    {
+      "path": "deliverables/Lampiran_Kode_WhatIf.pdf",
+      "sha": "77e371f4f70b345f756284497cba336835f50be6"
+    },
+    {
+      "path": "deliverables/Laporan_Utama_WhatIf.pdf",
+      "sha": "c62a994c9c6d42e1daa054f8580ff33d86e15e96"
+    },
+    {
+      "path": "deliverables/WhatIf_Laporan_Lengkap_Ali_Rifqi_2422052.pdf",
+      "sha": "071a6278e7e4b70e56993ac484b6583048910c0f"
+    },
+    {
+      "path": "deliverables/contoh-penjualan-fiktif.csv",
+      "sha": "98fff4a3e0833da444795e8c152a9d1b549e080f"
+    },
+    {
+      "path": "deliverables/evidence/build-checks.json",
+      "sha": "02d4ada762fce8f41f6cde568ea8aac8722914cd"
+    },
+    {
+      "path": "deliverables/evidence/build.txt",
+      "sha": "1ab621cd9711c621af177abf6072434ea8eb52a3"
+    },
+    {
+      "path": "deliverables/evidence/lint.txt",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "deliverables/evidence/pdf-inspection.json",
+      "sha": "ec9e2b09ff7078cc2d0fe9947d922f2e64a696e5"
+    },
+    {
+      "path": "deliverables/evidence/playwright.json",
+      "sha": "c69fb6d54131fcf854b75ef0b0e3c76868fd9c88"
+    },
+    {
+      "path": "deliverables/evidence/screenshots.json",
+      "sha": "0115d308e86f66e4b351b02d2f8bd216b7418472"
+    },
+    {
+      "path": "deliverables/evidence/typecheck.txt",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "deliverables/evidence/vitest.json",
+      "sha": "cb3073be22ae912ce784261c630ee21814d7ceab"
+    },
+    {
+      "path": "deliverables/logo-iteba.png",
+      "sha": "11f1148c01fe798d79ce35e8a1babd5d6559571a"
+    },
+    {
+      "path": "deliverables/report-index.json",
+      "sha": "469ebbc6facab791fe70408263558ab81cdaf586"
+    },
+    {
+      "path": "deliverables/screenshots/01-beranda.png",
+      "sha": "ddafd611aacf983707afba8244c6256f544106b5"
+    },
+    {
+      "path": "deliverables/screenshots/02-simulasi-harga.png",
+      "sha": "f0ea1f2ed7bd1d90043ae47e495b6874ae7c4978"
+    },
+    {
+      "path": "deliverables/screenshots/03-batas-aman.png",
+      "sha": "bdbfa4b5191101acfbad46e8d97e64d273825130"
+    },
+    {
+      "path": "deliverables/screenshots/04-penjelasan.png",
+      "sha": "34ab93d9ee000e57fd7306bfac6f6e5cd4ff01d1"
+    },
+    {
+      "path": "deliverables/screenshots/05-promosi.png",
+      "sha": "922c51c656a98516fc308ccad65f106b3dd12863"
+    },
+    {
+      "path": "deliverables/screenshots/06-karyawan.png",
+      "sha": "1d6f111b8152843d489c5c4f2f231dd92612c17c"
+    },
+    {
+      "path": "deliverables/screenshots/07-skenario-tersimpan.png",
+      "sha": "cb96333c6af2c2013200449bd75769a94591e4b5"
+    },
+    {
+      "path": "deliverables/screenshots/08-perbandingan.png",
+      "sha": "22ed2f4e5a40229a281bd0ba3cec97b40c03f542"
+    },
+    {
+      "path": "deliverables/screenshots/09-prediksi-riwayat.png",
+      "sha": "583991585410aae82d84afc4801dc1776fa5ba01"
+    },
+    {
+      "path": "deliverables/screenshots/10-stok.png",
+      "sha": "28fa39c3d1aa9dc389dc36085d674a6dcef54565"
+    },
+    {
+      "path": "deliverables/screenshots/11-kas.png",
+      "sha": "eaf6661346de61922f6789a38a7a3f4afad13a5a"
+    },
+    {
+      "path": "deliverables/screenshots/12-peralatan.png",
+      "sha": "a98fe0961b74cecd8f0e0dee3bb2ccb4dfeb1851"
+    },
+    {
+      "path": "deliverables/screenshots/13-produk.png",
+      "sha": "e4c750184e67d94a3381e669940c8b10c84503dc"
+    },
+    {
+      "path": "deliverables/screenshots/14-kanal.png",
+      "sha": "95139b1c6e6678c96450a8e84827c2de6f71a1f3"
+    },
+    {
+      "path": "deliverables/screenshots/1440-dashboard.png",
+      "sha": "21f3c806cc2c55c031580bdd7014ecfbe93d7d53"
+    },
+    {
+      "path": "deliverables/screenshots/1440-insights.png",
+      "sha": "8e9c4c371339acc4d85b7598393bcaeb0fc28260"
+    },
+    {
+      "path": "deliverables/screenshots/1440-reports.png",
+      "sha": "f17bb3ab61a441656764cbe2c52abdd13bef4bcc"
+    },
+    {
+      "path": "deliverables/screenshots/1440-settings.png",
+      "sha": "b2ceab280df73c335d56dfc26f116efdb6dfb1e5"
+    },
+    {
+      "path": "deliverables/screenshots/1440-simulator.png",
+      "sha": "8cdb99f05cb18b4ffcc511cc0f9b0ff91330db97"
+    },
+    {
+      "path": "deliverables/screenshots/15-evaluasi.png",
+      "sha": "20bbd82764a24160cc3848ef3c02bb9e8b75bdd5"
+    },
+    {
+      "path": "deliverables/screenshots/16-target-stress.png",
+      "sha": "26250a41a306892af6f1b4a0254cec36bd60d151"
+    },
+    {
+      "path": "deliverables/screenshots/17-profil.png",
+      "sha": "0e3e3c69238899b70337c1a222101d6677c2b11f"
+    },
+    {
+      "path": "deliverables/screenshots/18-laporan.png",
+      "sha": "fdbbbad4e923084b7da1e4e3d8a41d5a2ccb8711"
+    },
+    {
+      "path": "deliverables/screenshots/19-mobile-beranda.png",
+      "sha": "f35290e413fb2e33d03a42c1ba9bf17b1db3cefa"
+    },
+    {
+      "path": "deliverables/screenshots/20-mobile-simulasi.png",
+      "sha": "0b9d161b469ebc7e679ff8528f64fb53e3684d9f"
+    },
+    {
+      "path": "deliverables/screenshots/21-mobile-prediksi.png",
+      "sha": "35c09d3b9466b92da8dfe6eed901814620c9d4eb"
+    },
+    {
+      "path": "deliverables/screenshots/390-dashboard.png",
+      "sha": "32c6740a4c63d8d175fe2ce363e48f88aff9d5b6"
+    },
+    {
+      "path": "deliverables/screenshots/filled-1440--history.png",
+      "sha": "3f95a8937a65a4905dd74eb80026ddc091754136"
+    },
+    {
+      "path": "deliverables/screenshots/filled-1440--simulator-template-3.png",
+      "sha": "2b5e6be53097eb035f47726817f48aa83882bf9e"
+    },
+    {
+      "path": "deliverables/screenshots/filled-1440--simulator-template-4.png",
+      "sha": "0f1a9e091d5185b1c61c701739afb9616942ba59"
+    },
+    {
+      "path": "deliverables/screenshots/filled-1440--simulator-template-6.png",
+      "sha": "983450cee6266e6df96c39da25fe6d94afea105e"
+    },
+    {
+      "path": "deliverables/screenshots/filled-1440--simulator-template-8.png",
+      "sha": "ab2bfa128bf4bd7776507037a3a689e5ac3144b6"
+    },
+    {
+      "path": "deliverables/screenshots/filled-1440--simulator-template-9.png",
+      "sha": "9416b7a591f4d9361721f820932794cda3921415"
+    },
+    {
+      "path": "deliverables/screenshots/filled-1440-evaluation.png",
+      "sha": "8703bdf0ee26aa35edb622236b580e8ae5d5314a"
+    },
+    {
+      "path": "deliverables/screenshots/filled-390--history.png",
+      "sha": "ae88d43e8b3f02183973b8347b2c670900a49ce7"
+    },
+    {
+      "path": "deliverables/screenshots/filled-768--simulator-template-5.png",
+      "sha": "e8d80e9e263192cb991d073acf593dafebd89d5d"
+    },
+    {
+      "path": "deliverables/source-manifest.json",
+      "sha": "542707e641bf8375202a2bc4f02889bea6a382b1"
+    }
+  ]
+}

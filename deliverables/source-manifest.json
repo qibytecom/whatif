@@ -1,0 +1,276 @@
+{
+  "created": "25 November 2026",
+  "scope": "Kode aplikasi, konfigurasi, tes, dan skrip QA; node_modules/dist/lockfile tidak dicetak sebagai sumber",
+  "files": [
+    {
+      "file": ".github/workflows/ci.yml",
+      "lines": 20,
+      "sha256": "674e6ea81d8ff606ec5e182c4237d2cec2062930e065a238ae0dc2ea4ff51b56"
+    },
+    {
+      "file": ".gitignore",
+      "lines": 11,
+      "sha256": "fe2f871636c286f65575449176720183e13a36c07db0a5a0f57976534239342f"
+    },
+    {
+      "file": "e2e/app.spec.ts",
+      "lines": 168,
+      "sha256": "928d48a9846fc7a2439e4192cb96566d63d53d7d927133c588b7991945108ca0"
+    },
+    {
+      "file": "e2e/decisions.spec.ts",
+      "lines": 273,
+      "sha256": "676fa705da71066607e9788b8d74f47b47f935e11563d3dcf8296e31e6951edd"
+    },
+    {
+      "file": "eslint.config.js",
+      "lines": 24,
+      "sha256": "29406c86b894c53418962c8d45a927f5fb771ddfeadf6d22bc9343ab7fae1daa"
+    },
+    {
+      "file": "index.html",
+      "lines": 18,
+      "sha256": "e17f98b4ae42a85e2ffb99430ff91900c3f7458e22515ca522552bdfe54cd1d2"
+    },
+    {
+      "file": "package.json",
+      "lines": 51,
+      "sha256": "2920dfd68909625e495778a178d2553d2eb37426f486a407faef62fff7dce961"
+    },
+    {
+      "file": "playwright.config.ts",
+      "lines": 13,
+      "sha256": "552486b0e6ec927c4353993ad6c16677bd43326dee4119a087376461925c048c"
+    },
+    {
+      "file": "public/_redirects",
+      "lines": 2,
+      "sha256": "6036983e5fc00f0169c9e939b1816ed771eee00e27f2fcc517b819041460b9ef"
+    },
+    {
+      "file": "scripts/capture-academic.mjs",
+      "lines": 25,
+      "sha256": "db9ff1b9063cd952d75a1b7c36db919a6d0c3e1bb95b7f5c7384cbab555f0471"
+    },
+    {
+      "file": "scripts/check-mobile-import.mjs",
+      "lines": 10,
+      "sha256": "c0401c3dbaf5d0201e03c6996151e805363c0661962b5fb7274ebc053443dadf"
+    },
+    {
+      "file": "scripts/inspect-layout.mjs",
+      "lines": 54,
+      "sha256": "f965a04c88387d4acd43a0dae3e77fb3d6811bf58b2e2947abf26dbc55f942f8"
+    },
+    {
+      "file": "src/app/App.tsx",
+      "lines": 38,
+      "sha256": "c1a3a6d86acf270cfa1d62c99a835e8cb0ab3aa0cbc75ee37868b65dba3f7551"
+    },
+    {
+      "file": "src/components/common.tsx",
+      "lines": 257,
+      "sha256": "bb61dd2ccb81d58fc4927467f034f735e74c8a9ab87f8eb3da7fceb521fecb1d"
+    },
+    {
+      "file": "src/components/layout/Shell.tsx",
+      "lines": 141,
+      "sha256": "d0dcf111acf22e3237e86123e3d9c39464450f9a138ffe63f8ee1981488490ec"
+    },
+    {
+      "file": "src/components/planning/DecisionPanels.tsx",
+      "lines": 434,
+      "sha256": "05b2ea69a60d679359ec44598a6f7617587887c0c7d4f167636682a9cdc2d012"
+    },
+    {
+      "file": "src/components/planning/OperationFields.tsx",
+      "lines": 409,
+      "sha256": "67ce2653c4ea272f7f96988c4ee65a3787aa5df5d7033a816e707d009f9d4886"
+    },
+    {
+      "file": "src/components/planning/PlanningReport.tsx",
+      "lines": 156,
+      "sha256": "da33f2c1c06826d5b43aeea64d67a0658a748968850231a30ab1db1447836538"
+    },
+    {
+      "file": "src/components/simulator/Analysis.tsx",
+      "lines": 138,
+      "sha256": "2606f7f8880d05b9786bb68d0649ae5fc15e54b716d07828ce4e10d237ee7f69"
+    },
+    {
+      "file": "src/components/simulator/ScenarioFields.tsx",
+      "lines": 159,
+      "sha256": "bb6152cfa205b0edb3dcea8bdab9e3cf92a0821109b09b71fb72e5e8421958a8"
+    },
+    {
+      "file": "src/components/ui/button.tsx",
+      "lines": 31,
+      "sha256": "14d235d372544b8b17c9964a414294c34ee0de04d49926b6274253f1fddccd13"
+    },
+    {
+      "file": "src/data/demo.ts",
+      "lines": 47,
+      "sha256": "aed6d2ff68664c2e17d4edb5f6b26d3b903edd35d06b2b1068b1079f8ac089e7"
+    },
+    {
+      "file": "src/features/business/BusinessForm.tsx",
+      "lines": 74,
+      "sha256": "c633ddc2ca452626f251f114a1b3ff60ed1b4a64819699869810af8b14af5181"
+    },
+    {
+      "file": "src/features/reports/export.ts",
+      "lines": 41,
+      "sha256": "36f4deeadf3d9a6da0eba955c017201f17474ee6eaec8f88de0515e9bc9981fb"
+    },
+    {
+      "file": "src/hooks/useDialogFocus.ts",
+      "lines": 52,
+      "sha256": "9a50efd7832fbfa05472ec5e3c9c39b7031056555cb50d38801e3622f1cefef0"
+    },
+    {
+      "file": "src/lib/forecast/index.ts",
+      "lines": 225,
+      "sha256": "a53582883e10c642740aa43ed697d88b4822b672247b3c5f5aac028f3efa53cb"
+    },
+    {
+      "file": "src/lib/formatters/index.ts",
+      "lines": 15,
+      "sha256": "1ad9147ddda08242b1657ba13a63d2f17be191b2b18ca6044940e8cc57fad658"
+    },
+    {
+      "file": "src/lib/planning/cash.ts",
+      "lines": 86,
+      "sha256": "1973d294c8d4e198669baf79c2916d25a6e9ba863e5c6ce6d9b037e572b443a4"
+    },
+    {
+      "file": "src/lib/planning/decision.ts",
+      "lines": 143,
+      "sha256": "2313ff3b8717506c2a7e421b06bc212b7574eeafb96e1935536418c169dcc80e"
+    },
+    {
+      "file": "src/lib/planning/inventory.ts",
+      "lines": 78,
+      "sha256": "5a235a4b000ac026cfe21429076ca6475484eafca412c0fd651399c6bb8bc31d"
+    },
+    {
+      "file": "src/lib/simulation/index.ts",
+      "lines": 187,
+      "sha256": "b0300da8f4f9a78f179e6ae00ff8ee6d6e1ece3497d6ade4909b57d6cf71cf10"
+    },
+    {
+      "file": "src/lib/storage/index.ts",
+      "lines": 93,
+      "sha256": "498a0fdff2c0481ce8aa61c361084c4ecbe8a2f84c124181a70ff16b9c3f2ecd"
+    },
+    {
+      "file": "src/lib/validation/index.ts",
+      "lines": 130,
+      "sha256": "a4dabac6469053a5aceafe1f6bfab6cc1ea183b801ec3de84cc879789b305330"
+    },
+    {
+      "file": "src/lib/validation/planning.ts",
+      "lines": 102,
+      "sha256": "e4ba194e7c979cdb6aa2304ea3f698f7df11c619d8c13021263fe13a9a2f6eed"
+    },
+    {
+      "file": "src/main.tsx",
+      "lines": 17,
+      "sha256": "9c813f383c0e8ea54c12518e6f9027467bac64b0f7e663511f7246aae88fa2a8"
+    },
+    {
+      "file": "src/pages/Dashboard.tsx",
+      "lines": 136,
+      "sha256": "e6f0c5026b27725808afc8597877a86e84305056c13242f12d4886099e57a671"
+    },
+    {
+      "file": "src/pages/Decisions.tsx",
+      "lines": 295,
+      "sha256": "1e1883b9358669acd99a643d3171f5844824264e09d65737af968386067e88f6"
+    },
+    {
+      "file": "src/pages/History.tsx",
+      "lines": 536,
+      "sha256": "5c47846f39b80f22dbba3f60cf39d6147e3991201488e073318ba830deddbc17"
+    },
+    {
+      "file": "src/pages/Insights.tsx",
+      "lines": 72,
+      "sha256": "660541f0faa89beac750e0582ecc8021d9a05685e2caf4d7edf9658a62a8978b"
+    },
+    {
+      "file": "src/pages/Reports.tsx",
+      "lines": 161,
+      "sha256": "6c34fe0bd58eb8d090d86eac874d1eda689e13de97b4e83ba31d34afb6135713"
+    },
+    {
+      "file": "src/pages/Scenarios.tsx",
+      "lines": 230,
+      "sha256": "51ab9f94f35c60541beddacd175092a0926b92cead24ecca14087c5f21d61775"
+    },
+    {
+      "file": "src/pages/Settings.tsx",
+      "lines": 181,
+      "sha256": "4275d13694f9b14cea510dd65ffd846da79a35c981b3b7f18e2ccb93ac19642f"
+    },
+    {
+      "file": "src/pages/Simulator.tsx",
+      "lines": 450,
+      "sha256": "96bac29f398d9b4ffdb88e3c0d8a3bdfe114fedf0bf2ff9a1a16f353226a3d14"
+    },
+    {
+      "file": "src/styles/index.css",
+      "lines": 2409,
+      "sha256": "81758d56b2c0febff1673cdf056b66c54574f4e9acb96be9854480387b063d03"
+    },
+    {
+      "file": "src/styles/planning.css",
+      "lines": 537,
+      "sha256": "7a846a2b2d7edd1f3a78e38e2acce2b88bb24f14d98fbdda407b7f5383f8cc14"
+    },
+    {
+      "file": "src/styles/simple.css",
+      "lines": 574,
+      "sha256": "8328c14d85315895f2d43307637c38b06b7cb38d2b21b8ea4302f13c3be87593"
+    },
+    {
+      "file": "src/tests/form.test.tsx",
+      "lines": 38,
+      "sha256": "193cefb13f08337c417f2edbf216df73ad6030cacbd14675adaace5f6acb0d60"
+    },
+    {
+      "file": "src/tests/planning.test.ts",
+      "lines": 305,
+      "sha256": "3e64b1cdbf91ba8e8e81e939f9d0bd44a2e46820129074758399ea9b04644d5f"
+    },
+    {
+      "file": "src/tests/setup.ts",
+      "lines": 2,
+      "sha256": "9b328c4843431fa76d8de00008fc159e95f99a840211085ff3b8f25e53d14409"
+    },
+    {
+      "file": "src/tests/simulation.test.ts",
+      "lines": 130,
+      "sha256": "3dcfddc61fec12a75b1101860524826c899af6675fe333092c766d89957820b3"
+    },
+    {
+      "file": "src/types/index.ts",
+      "lines": 43,
+      "sha256": "142e9b9dc5528218d9819b87c0a6c517dd9e6ccd5c386655b66464540c215e8d"
+    },
+    {
+      "file": "start-local.ps1",
+      "lines": 8,
+      "sha256": "23350022648fa0ab3884935c1bbd33fbf8d3cac2e804dd900895c58319794473"
+    },
+    {
+      "file": "tsconfig.json",
+      "lines": 20,
+      "sha256": "e625df9f8d477eaf3c84ea48208994b167fe887c236562caca8ed7056e035e57"
+    },
+    {
+      "file": "vite.config.ts",
+      "lines": 22,
+      "sha256": "36bac83a9c9b3f4205a57a1785f895d0642d6f9137f241ce2edc0ccb346b3b27"
+    }
+  ]
+}
